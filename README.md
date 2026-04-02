@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Riza Surya👋
 
-<!--
-**rizasuryapratama/rizasuryapratama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Vocational School Students (PPLG)
+- 💻 Focus: Web & Flutter Developer
+- 🎮 Interested in Game Development
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- HTML, CSS, JavaScript
+- Laravel
+- Flutter
+- Golang
+- React Js
+- Mysql
+- UI/UX Design (Figma)
+- Godot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📱 Projects
+- 📚 Library App (Golang + Flutter)
+- 📚 Umrah Travel Application (Laravel + Flutter)
+- 📰 News Web
+- 🎮 Game "Taken in the Dark"
+
+## 📫 Contact
+- Email: (rizasuryapratama08@gmail.com)
+- LinkedIn: ()
