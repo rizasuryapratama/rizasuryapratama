@@ -55,9 +55,22 @@
 
 ---
 
-## 📫 Contact
+## 📫 Contact & Socials
 
 - 📧 Email: rizasuryapratama08@gmail.com  
 - 💼 LinkedIn: (add soon)
+
+---
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/USERNAME_KAMU)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/USERNAME_KAMU)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/USERNAME_KAMU)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@USERNAME_KAMU)
+
+---
+
+## 👀 Profile Views
+
+![Visitor Count](https://komarev.com/ghpvc/?username=rizasuryapratama&color=blue)
 
 ---
