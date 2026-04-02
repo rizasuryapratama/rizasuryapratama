@@ -2,13 +2,13 @@
 
 # Hi, I'm Riza Surya 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Web+%26+Flutter+Developer;Game+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Web+%26+FullstackDeveloper;GameDeveloper)](https://git.io/typing-svg)
 
 ---
 
 ## 🚀 About Me
 - 🎓 Vocational High School Student (PPLG)
-- 💻 Web & Flutter Developer
+- 💻 Fullstack Developer
 - 🎮 Passionate about Game Development
 - 🎨 Interested in UI/UX Design
 
