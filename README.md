@@ -39,22 +39,6 @@
 
 ---
 
-## 📱 Projects
-
-- 📚 **Library App**  
-  Mobile app for library management (Golang + Flutter)
-
-- 🕋 **Umrah Travel Application**  
-  Booking & management system (Laravel + Flutter)
-
-- 📰 **News Web**  
-  Web-based news platform with authentication system
-
-- 🎮 **Taken in the Dark**  
-  Horror puzzle game with story mode
-
----
-
 ## 📫 Contact & Socials
 
 - 📧 Email: rizasuryapratama08@gmail.com  
