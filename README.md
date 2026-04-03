@@ -57,7 +57,7 @@
 <a href="https://twitter.com/USERNAME_KAMU">
   <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
-<a href="https://youtube.com/@USERNAME_KAMU">
+<a href="https://youtube.com/USERNAME_KAMU">
   <img src="https://skillicons.dev/icons?i=youtube" />
 </a>
 
