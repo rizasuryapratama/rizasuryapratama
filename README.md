@@ -48,17 +48,21 @@
 <a href="https://www.linkedin.com/in/riza-surya-pratama-449455400">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+
 <a href="https://instagram.com/USERNAME_KAMU">
   <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
+
 <a href="https://facebook.com/USERNAME_KAMU">
   <img src="https://skillicons.dev/icons?i=facebook" />
 </a>
+
 <a href="https://twitter.com/USERNAME_KAMU">
-  <img src="https://skillicons.dev/icons?i=twitter" />
+  <img src="https://cdn.simpleicons.org/x/ffffff" width="48" />
 </a>
-<a href="https://youtube.com/USERNAME_KAMU">
-  <img src="https://skillicons.dev/icons?i=youtube" />
+
+<a href="https://youtube.com/@USERNAME_KAMU">
+  <img src="https://cdn.simpleicons.org/youtube/FF0000" width="48" />
 </a>
 
 </p>
