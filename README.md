@@ -41,8 +41,8 @@
 
 ## 📫 Contact & Socials
 
-- 📧 Email: rizasuryapratama08@gmail.com  
-- 💼 LinkedIn: (add soon)
+- 📧 Email: rizasuryapratama.dev@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/riza-surya-pratama-449455400 
 
 ---
 
