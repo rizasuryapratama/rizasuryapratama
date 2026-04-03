@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Riza%20Surya&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Riza Surya</h1>
+<h1 align="center">Hi 👋, I'm Riza Surya Pratama</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Flutter+%26+Web+Developer;Game+Developer;UI%2FUX+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=FullstackDeveloper;GameDeveloper;UI%2FUX+Enthusiast" />
 </p>
 
 ---
@@ -38,22 +38,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rizasuryapratama&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 🌟 Featured Projects
-
-- 📚 **Library App**  
-  Mobile library management (Golang + Flutter)
-
-- 🕋 **Umrah Travel App**  
-  Booking & management system (Laravel + Flutter)
-
-- 📰 **News Web**  
-  News platform with authentication & dashboard
-
-- 🎮 **Taken in the Dark**  
-  Horror puzzle story game
 
 ---
 
