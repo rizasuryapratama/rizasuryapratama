@@ -14,7 +14,7 @@
 - 🎓 Vocational High School Student (PPLG)  
 - 💻 Fullstack Developer (Web & Mobile)  
 - 🎮 Game Developer (Godot)  
-- 🎨 UI/UX Enthusiast  
+- 🎨 UI/UX
 
 ---
 
