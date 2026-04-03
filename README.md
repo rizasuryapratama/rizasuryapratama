@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Riza Surya Pratama👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=FullstackDeveloper;GameDeveloper;UI%2FUX+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=FullstackDeveloper;GameDeveloper" />
 </p>
 
 ---
@@ -64,15 +64,3 @@
 </p>
 
 ---
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rizasuryapratama&color=0e75b6&style=flat" />
-</p>
-
----
-
-<p align="center">
-  💡 "Code. Create. Innovate."
-</p>
