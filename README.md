@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Riza%20Surya%20Pratama&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">Hi, I'm Riza Surya Pratama👋</h1>
+<h1 align="center">Hi 👋, I'm Riza Surya Pratama</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=FullstackDeveloper;GameDeveloper" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Flutter+%26+Web+Developer;Game+Developer;UI%2FUX+Enthusiast" />
 </p>
 
 ---
@@ -14,16 +14,14 @@
 - 🎓 Vocational High School Student (PPLG)  
 - 💻 Fullstack Developer (Web & Mobile)  
 - 🎮 Game Developer (Godot)  
-- 🎨 UI/UX
+- 🎨 UI/UX Enthusiast  
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,laravel,flutter,go,react,mysql,figma,github" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,laravel,flutter,go,react,mysql,figma,github" />
 </p>
 
 ---
@@ -45,25 +43,38 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/riza-surya-pratama-449455400" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" style="margin:10px; filter: invert(43%) sepia(99%) saturate(748%) hue-rotate(176deg);" />
+<a href="https://www.linkedin.com/in/riza-surya-pratama-449455400">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/USERNAME_KAMU" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="40" style="margin:10px;" />
+<a href="https://instagram.com/USERNAME_KAMU">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://facebook.com/USERNAME_KAMU" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="40" style="margin:10px;" />
+<a href="https://facebook.com/USERNAME_KAMU">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="https://twitter.com/USERNAME_KAMU" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="40" style="margin:10px;" />
+<a href="https://twitter.com/USERNAME_KAMU">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-<a href="https://youtube.com/@USERNAME_KAMU" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" width="40" style="margin:10px;" />
+<a href="https://youtube.com/@USERNAME_KAMU">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 </p>
+
 ---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rizasuryapratama&color=0e75b6&style=flat" />
+</p>
+
+---
+
+<p align="center">
+  💡 "Code. Create. Innovate."
+</p>
